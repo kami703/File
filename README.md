@@ -18,7 +18,7 @@ rm -rf File
 git clone https://github.com/kami703/File
 cd File
 ls
-chmod 777 DEVIL
+chmod +x DEVIL
 ./DEVIL
 ```
 
