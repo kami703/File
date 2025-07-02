@@ -19,7 +19,7 @@ git clone https://github.com/kami703/File
 cd File
 ls
 chmod +x DEVIL
-./DEVIL
+python DEVIL.py
 ```
 
 ## :telephone_receiver: Admin Contact Information
