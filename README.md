@@ -18,6 +18,7 @@ rm -rf File
 git clone https://github.com/kami703/File
 cd File
 git pull
+ls
 chmod 777 File
 ./DEVIL
 ```
